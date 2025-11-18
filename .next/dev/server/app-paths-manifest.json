@@ -1,1 +1,11 @@
-{}
+{
+  "/api/didit/create-session/route": "app/api/didit/create-session/route.js",
+  "/api/didit/validate-cpf/route": "app/api/didit/validate-cpf/route.js",
+  "/api/echo/route": "app/api/echo/route.js",
+  "/api/user/route": "app/api/user/route.js",
+  "/page": "app/page.js",
+  "/sign-in/[[...sign-in]]/page": "app/sign-in/[[...sign-in]]/page.js",
+  "/sign-up/[[...sign-up]]/page": "app/sign-up/[[...sign-up]]/page.js",
+  "/validate-cpf/page": "app/validate-cpf/page.js",
+  "/verificacao/page": "app/verificacao/page.js"
+}

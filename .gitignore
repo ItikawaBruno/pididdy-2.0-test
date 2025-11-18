@@ -43,3 +43,5 @@ next-env.d.ts
 
 # OS
 Thumbs.db
+# clerk configuration (can include secrets)
+/.clerk/

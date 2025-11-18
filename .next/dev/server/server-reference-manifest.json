@@ -1,5 +1,307 @@
 {
-  "node": {},
+  "node": {
+    "7f518ee0428f0e69bfb4b535d95dcd787b0ebf9ade": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "collectKeylessMetadata",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        },
+        "app/sign-in/[[...sign-in]]/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/sign-in/[[...sign-in]]/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "collectKeylessMetadata",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        },
+        "app/sign-up/[[...sign-up]]/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/sign-up/[[...sign-up]]/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "collectKeylessMetadata",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        },
+        "app/validate-cpf/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/validate-cpf/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "collectKeylessMetadata",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        },
+        "app/verificacao/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/verificacao/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "collectKeylessMetadata",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        }
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/sign-in/[[...sign-in]]/page": "rsc",
+        "app/sign-up/[[...sign-up]]/page": "rsc",
+        "app/validate-cpf/page": "rsc",
+        "app/verificacao/page": "rsc"
+      },
+      "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js",
+      "exportedName": "collectKeylessMetadata"
+    },
+    "7fd46d7ca80a9e6c0952f15d1a828f5ff224b5f709": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "formatMetadataHeaders",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        },
+        "app/sign-in/[[...sign-in]]/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/sign-in/[[...sign-in]]/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "formatMetadataHeaders",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        },
+        "app/sign-up/[[...sign-up]]/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/sign-up/[[...sign-up]]/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "formatMetadataHeaders",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        },
+        "app/validate-cpf/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/validate-cpf/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "formatMetadataHeaders",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        },
+        "app/verificacao/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/verificacao/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "formatMetadataHeaders",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        }
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/sign-in/[[...sign-in]]/page": "rsc",
+        "app/sign-up/[[...sign-up]]/page": "rsc",
+        "app/validate-cpf/page": "rsc",
+        "app/verificacao/page": "rsc"
+      },
+      "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js",
+      "exportedName": "formatMetadataHeaders"
+    },
+    "7f5c87cd76b9ff6f1c95a7d25071a87cdf9db6b757": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteKeylessAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/sign-in/[[...sign-in]]/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/sign-in/[[...sign-in]]/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteKeylessAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/sign-up/[[...sign-up]]/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/sign-up/[[...sign-up]]/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteKeylessAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/validate-cpf/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/validate-cpf/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteKeylessAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/verificacao/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/verificacao/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteKeylessAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/sign-in/[[...sign-in]]/page": "action-browser",
+        "app/sign-up/[[...sign-up]]/page": "action-browser",
+        "app/validate-cpf/page": "action-browser",
+        "app/verificacao/page": "action-browser"
+      },
+      "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js",
+      "exportedName": "deleteKeylessAction"
+    },
+    "7f66381b1d8731d29a7a768a1a6c72c13883691161": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "detectKeylessEnvDriftAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/sign-in/[[...sign-in]]/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/sign-in/[[...sign-in]]/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "detectKeylessEnvDriftAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/sign-up/[[...sign-up]]/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/sign-up/[[...sign-up]]/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "detectKeylessEnvDriftAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/validate-cpf/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/validate-cpf/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "detectKeylessEnvDriftAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/verificacao/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/verificacao/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "detectKeylessEnvDriftAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/sign-in/[[...sign-in]]/page": "action-browser",
+        "app/sign-up/[[...sign-up]]/page": "action-browser",
+        "app/validate-cpf/page": "action-browser",
+        "app/verificacao/page": "action-browser"
+      },
+      "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js",
+      "exportedName": "detectKeylessEnvDriftAction"
+    },
+    "7f96d68b53c2b5ceb9ff6da102340ad99e9ec222d4": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "syncKeylessConfigAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/sign-in/[[...sign-in]]/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/sign-in/[[...sign-in]]/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "syncKeylessConfigAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/sign-up/[[...sign-up]]/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/sign-up/[[...sign-up]]/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "syncKeylessConfigAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/validate-cpf/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/validate-cpf/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "syncKeylessConfigAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/verificacao/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/verificacao/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "syncKeylessConfigAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/sign-in/[[...sign-in]]/page": "action-browser",
+        "app/sign-up/[[...sign-up]]/page": "action-browser",
+        "app/validate-cpf/page": "action-browser",
+        "app/verificacao/page": "action-browser"
+      },
+      "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js",
+      "exportedName": "syncKeylessConfigAction"
+    },
+    "7fcd2eeeb271cc7b2a7de2a06c7108f98fb8a96386": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createOrReadKeylessAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/sign-in/[[...sign-in]]/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/sign-in/[[...sign-in]]/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createOrReadKeylessAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/sign-up/[[...sign-up]]/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/sign-up/[[...sign-up]]/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createOrReadKeylessAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/validate-cpf/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/validate-cpf/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createOrReadKeylessAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        },
+        "app/verificacao/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/verificacao/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createOrReadKeylessAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/sign-in/[[...sign-in]]/page": "action-browser",
+        "app/sign-up/[[...sign-up]]/page": "action-browser",
+        "app/validate-cpf/page": "action-browser",
+        "app/verificacao/page": "action-browser"
+      },
+      "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js",
+      "exportedName": "createOrReadKeylessAction"
+    },
+    "7f583ec8754065981ed58f6f4580c1ad9841d79569": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "invalidateCacheAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+        },
+        "app/sign-in/[[...sign-in]]/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/sign-in/[[...sign-in]]/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "invalidateCacheAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+        },
+        "app/sign-up/[[...sign-up]]/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/sign-up/[[...sign-up]]/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "invalidateCacheAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+        },
+        "app/validate-cpf/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/validate-cpf/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "invalidateCacheAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+        },
+        "app/verificacao/page": {
+          "moduleId": "[project]/Desktop/pididdy-verification-test-api-2.0/.next-internal/server/app/verificacao/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "invalidateCacheAction",
+          "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/sign-in/[[...sign-in]]/page": "action-browser",
+        "app/sign-up/[[...sign-up]]/page": "action-browser",
+        "app/validate-cpf/page": "action-browser",
+        "app/verificacao/page": "action-browser"
+      },
+      "filename": "Desktop/pididdy-verification-test-api-2.0/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js",
+      "exportedName": "invalidateCacheAction"
+    }
+  },
   "edge": {},
   "encryptionKey": "+mhYMAX6m90NaJaBgQh6b5TmGALsu1bqNvEJJ7tFRiI="
 }

@@ -253,8 +253,8 @@ const API_URL = process.env.CLERK_API_URL || (0, __TURBOPACK__imported__module__
 const DOMAIN = process.env.NEXT_PUBLIC_CLERK_DOMAIN || "";
 const PROXY_URL = process.env.NEXT_PUBLIC_CLERK_PROXY_URL || "";
 const IS_SATELLITE = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$pididdy$2d$verification$2d$test$2d$api$2d$2$2e$0$2f$node_modules$2f40$clerk$2f$shared$2f$dist$2f$runtime$2f$underscore$2d$DjQrhefX$2e$mjs__$5b$middleware$2d$edge$5d$__$28$ecmascript$29$__["isTruthy"])(process.env.NEXT_PUBLIC_CLERK_IS_SATELLITE) || false;
-const SIGN_IN_URL = process.env.NEXT_PUBLIC_CLERK_SIGN_IN_URL || "";
-const SIGN_UP_URL = process.env.NEXT_PUBLIC_CLERK_SIGN_UP_URL || "";
+const SIGN_IN_URL = ("TURBOPACK compile-time value", "/sign-in") || "";
+const SIGN_UP_URL = ("TURBOPACK compile-time value", "/sign-up") || "";
 const SDK_METADATA = {
     name: "@clerk/nextjs",
     version: "6.35.1",
