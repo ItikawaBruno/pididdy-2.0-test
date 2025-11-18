@@ -19,7 +19,7 @@ export async function GET(request: Request) {
   }
 
   try {
-    const response = await fetch(`https://verification.didit.me/v2/session/${sessionId}/`, {
+    const response = await fetch(`https://verification.didit.me/v2/session/${sessionId}/decision/`, {
       method: 'GET',
       headers: {
         'x-api-key': process.env.DIDIT_API_KEY,

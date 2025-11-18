@@ -1,34 +1,35 @@
-[00:00:01.717] Server  WARN     ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
-[00:00:01.883] Server  LOG      ✓ Ready in 1451ms
-[00:00:19.847] Server  LOG     
+[00:00:01.760] Server  WARN     ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:01.971] Server  LOG      ✓ Ready in 1443ms
+[00:00:05.799] Server  WARN     ⚠ Cross origin request detected from 192.168.15.124 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:00:05.952] Browser ERROR   [1m[36m[Clerk Debug][0m [2m2025-11-18T17:22:26.670Z[0m [31mERROR[0m[90m[fapiClient][0m: [37mnetwork error[0m[2m {"error":{},"url":"https://fleet-manatee-78.clerk.accounts.dev/v1/client/sessions/sess_35f1QCTV4B5NjPOwieIpZek4moc/tokens?__clerk_api_version=2025-11-10&_clerk_js_version=5.109.0&__clerk_db_jwt=dvb_35eoJ7AJk7vFSGOoe6fuyoHagZO","method":"POST"}[0m
+[00:00:08.947] Browser ERROR   [1m[36m[Clerk Debug][0m [2m2025-11-18T17:22:29.676Z[0m [31mERROR[0m[90m[fapiClient][0m: [37mnetwork error[0m[2m {"error":{},"url":"https://fleet-manatee-78.clerk.accounts.dev/v1/client/sessions/sess_35f1QCTV4B5NjPOwieIpZek4moc/tokens?__clerk_api_version=2025-11-10&_clerk_js_version=5.109.0&__clerk_db_jwt=dvb_35eoJ7AJk7vFSGOoe6fuyoHagZO","method":"POST"}[0m
+[00:00:09.602] Server  LOG     
 
 [Clerk]: You are running in keyless mode.
 You can claim your keys by visiting https://dashboard.clerk.com/apps/claim?token=dqalktvt0swoe2hjnt0jbqo7iajabqi33jxoifou&return_url=http%3A%2F%2F192.168.15.124%3A3000%2F
 
-[00:00:20.388] Server  WARN     ⚠ Cross origin request detected from 192.168.15.124 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
-Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
-[00:00:20.514] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:00:20.514] Browser LOG     Suffixed cookie failed due to undefined is not an object (evaluating 't.digest') (secure-context: false, url: http://192.168.15.124:3000/)
-[00:00:26.726] Browser DEBUG   [sign-in] isLoaded= true isSignedIn= false
-[00:00:26.726] Browser DEBUG   [sign-in] isLoaded= true isSignedIn= false
-[00:00:26.726] Browser WARN    Clerk: The prop "afterSignInUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
-[00:00:40.715] Browser DEBUG   [sign-up] isLoaded= true isSignedIn= false
-[00:00:40.715] Browser DEBUG   [sign-up] isLoaded= true isSignedIn= false
-[00:00:40.715] Browser WARN    Clerk: The prop "afterSignUpUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
-[00:01:04.728] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:01:04.728] Browser LOG     Suffixed cookie failed due to undefined is not an object (evaluating 't.digest') (secure-context: false, url: http://192.168.15.124:3000/sign-up/sso-callback?after_sign_up_url=http%3A%2F%2F192.168.15.124%3A3000%2F)
-[00:01:04.728] Browser DEBUG   [sign-up] isLoaded= false isSignedIn= undefined
-[00:01:04.993] Browser DEBUG   [sign-up] isLoaded= true isSignedIn= false
-[00:01:04.993] Browser WARN    Clerk: The prop "afterSignUpUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
-[00:01:04.993] Browser WARN    Clerk: The prop "after_sign_up_url" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
-[00:01:05.978] Browser DEBUG   [sign-up] isLoaded= false isSignedIn= undefined
-[00:01:19.105] Server  LOG     Echo received: {}
-[00:02:41.874] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:42.047] Browser DEBUG   [sign-in] isLoaded= false isSignedIn= undefined
-[00:02:42.621] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:02:43.474] Browser DEBUG   [sign-in] isLoaded= true isSignedIn= false
-[00:02:43.474] Browser WARN    Clerk: The prop "afterSignInUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
-[00:04:03.881] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:04:03.881] Browser LOG     Suffixed cookie failed due to undefined is not an object (evaluating 't.digest') (secure-context: false, url: http://192.168.15.124:3000/validate-cpf?status=Approved&verificationSessionId=864d5355-6328-46c5-8dc4-4f9b64afe4dc)
-[00:04:05.277] Server  ERROR   Didit API error: "\n<!doctype html>\n<html lang=\"en\">\n<head>\n  <title>Not Found</title>\n</head>\n<body>\n  <h1>Not Found</h1><p>The requested resource was not found on this server.</p>\n</body>\n</html>\n"
-[00:04:05.467] Browser ERROR   Error validating CPF: {}
+[00:00:10.819] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:00:10.819] Browser LOG     Suffixed cookie failed due to undefined is not an object (evaluating 't.digest') (secure-context: false, url: http://192.168.15.124:3000/)
+[00:00:10.841] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:00:10.841] Browser LOG     Suffixed cookie failed due to undefined is not an object (evaluating 't.digest') (secure-context: false, url: http://192.168.15.124:3000/)
+[00:00:25.675] Server  LOG     Echo received: {}
+[00:01:01.891] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:01:01.891] Browser LOG     Suffixed cookie failed due to undefined is not an object (evaluating 't.digest') (secure-context: false, url: http://192.168.15.124:3000/validate-cpf?status=Approved&verificationSessionId=0044fc5d-0518-481c-b62d-0040df331ced)
+[00:01:02.538] Server  LOG     Fetching Didit session data for: "0044fc5d-0518-481c-b62d-0040df331ced"
+[00:01:02.539] Server  LOG     Using API Key: "Present"
+[00:01:02.539] Server  LOG     Trying URL: "https://verification.didit.me/v2/session/0044fc5d-0518-481c-b62d-0040df331ced/decision/"
+[00:01:03.526] Server  LOG     Success with URL: "https://verification.didit.me/v2/session/0044fc5d-0518-481c-b62d-0040df331ced/decision/"
+[00:01:03.530] Server  LOG     DIDIT Verification Status: {}
+[00:01:03.530] Server  LOG     Searching for CPF in: {}
+[00:01:03.532] Server  LOG     Possible CPFs found: ["44318203883",undefined,"588607435",undefined,undefined,undefined,undefined,undefined,undefined]
+[00:01:03.532] Server  LOG     Checking CPF 0: "44318203883" "string"
+[00:01:03.532] Server  LOG     CPF 0 cleaned: "44318203883" "length:" 11
+[00:01:03.533] Server  LOG     Found valid CPF: 44318203883
+[00:01:03.533] Server  LOG     CPF extraction result: {}
+[00:01:03.534] Server  LOG     CPF Cross-Validation: {}
+[00:01:50.494] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:50.494] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:01:51.596] Browser DEBUG   [sign-in] isLoaded= true isSignedIn= false
+[00:01:51.596] Browser DEBUG   [sign-in] isLoaded= true isSignedIn= false
+[00:01:51.596] Browser WARN    Clerk: The prop "afterSignInUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props
